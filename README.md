@@ -1,5 +1,7 @@
 # IsoFish
 
+> Public source preview: see [PUBLICATION.md](PUBLICATION.md) for actual checks, known failures and runtime limits.
+
 ## О проекте
 
 `IsoFish` — экспериментальный игровой прототип с изометрическим или pseudo-voxel миром, ASCII-рендерингом и мини-игрой про рыбалку. По структуре проект сочетает генерацию мира, управление персонажем, HUD, консольный вывод и отдельные игровые способности.
@@ -28,3 +30,8 @@ python main.py
 ## Статус
 
 `WIP / experiment`. Проект уже интересен как самостоятельный игровой эксперимент, но по коду видно, что он находится в стадии активного поиска механик и визуального стиля.
+
+
+## Public source status — 2026-10-29
+
+See [PUBLICATION.md](PUBLICATION.md) for the current verification scope, prototype limitations and runtime boundaries. Earlier audit checklists describe historical work.
